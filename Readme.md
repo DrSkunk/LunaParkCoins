@@ -1,1 +1,1 @@
-#[Play Here](https://github.com/whitebird/LunaParkCoins)
+#[Play Here](http://whitebird.github.io/LunaParkCoins/WebGL/)
